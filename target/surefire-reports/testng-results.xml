@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke" duration-ms="7231" started-at="2019-03-26T00:59:57Z" finished-at="2019-03-26T01:00:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7231" started-at="2019-03-26T00:59:57Z" finished-at="2019-03-26T01:00:04Z">
+      <class name="multithreading.AuthenticationTest">
+        <test-method status="PASS" signature="userIsAbleToAuthenticateSuccessfullyJira001(java.lang.String)[pri:0, instance:multithreading.AuthenticationTest@58ceff1]" name="userIsAbleToAuthenticateSuccessfullyJira001" duration-ms="7208" started-at="2019-03-26T00:59:57Z" data-provider="getBrowsers" finished-at="2019-03-26T01:00:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIsAbleToAuthenticateSuccessfullyJira001 -->
+        <test-method status="PASS" signature="userIsAbleToAuthenticateSuccessfullyJira001(java.lang.String)[pri:0, instance:multithreading.AuthenticationTest@58ceff1]" name="userIsAbleToAuthenticateSuccessfullyJira001" duration-ms="6141" started-at="2019-03-26T00:59:57Z" data-provider="getBrowsers" finished-at="2019-03-26T01:00:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userIsAbleToAuthenticateSuccessfullyJira001 -->
+      </class> <!-- multithreading.AuthenticationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Smoke -->
+</testng-results>
