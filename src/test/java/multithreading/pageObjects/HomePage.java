@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.pageObjects;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebDriver;

@@ -1,4 +1,5 @@
-multithreading/HomePage.class
+multithreading/pageObjects/HomePage.class
+multithreading/pageObjects/LoginPage.class
 multithreading/AuthenticationTest.class
-multithreading/LoginPage.class
 multithreading/TestBase.class
+multithreading/utilities/ExtentManager.class

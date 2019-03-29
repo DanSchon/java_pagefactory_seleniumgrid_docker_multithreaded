@@ -5,6 +5,7 @@
     <classes>
       <class name="multithreading.AuthenticationTest">
         <methods>
+          <include name="tearDown"/>
           <include name="userIsAbleToAuthenticateSuccessfullyJira001" invocation-numbers="0 1"/>
         </methods>
       </class> <!-- multithreading.AuthenticationTest -->
